@@ -13,6 +13,7 @@ body {
     width: 100%;
     min-height: 100dvh;
     font-family: $font-main;
+    background-color: $c-soft-gray;
     line-height: 1.45;
 }
 
@@ -35,9 +36,9 @@ ul, ol {
 }
 
 button {
+    border: none;
     outline: none;
     cursor: pointer;
-    background-color: none;
 }
 
 img, figure {
