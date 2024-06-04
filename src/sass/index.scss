@@ -4,8 +4,15 @@
 
 /* base */
 @import './base/reset';
-@import './base/base';
 
 /* components */
+//Header
 @import './components/Header/header';
 @import './components/Header/navbar';
+//Main 
+@import './components/Main/main';
+@import './components/Main/itemDetail';
+//Nosotros
+@import './components/Nosotros/nosotros';
+//Contacto
+@import './components/Contacto/contacto';
